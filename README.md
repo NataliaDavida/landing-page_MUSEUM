@@ -2,7 +2,7 @@
 
 This project is a modern, responsive landing page for a museum, designed to showcase current exhibitions, schedules, and cultural heritage in an engaging and accessible format.
 
-* [Live Demo](https://nataliadavida.github.io/landin-page_museum/)
+* [Live Demo](https://nataliadavida.github.io/landing-page_MUSEUM/)
 
 ---
 
