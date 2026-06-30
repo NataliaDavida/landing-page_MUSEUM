@@ -38,22 +38,22 @@ To install and run this project locally, you will need:
 ## Installation & Setup
 
 1. **Clone the repository:**
+   
    ```bash
    git clone https://github.com/NataliaDavida/landin-page_Museum.git
 
-
-2. **Install project dependencies:**
+3. **Install project dependencies:
+   
     ```bash
     npm install
 
-
-3. **Start the local development server:**
+5. **Start the local development server:**
+   
     ```bash
     npm start
 
 ## Project Links
 * **Live Demo:** [DEMO LINK](https://nataliadavida.github.io/landing-page_MUSEUM/)
-
 * **Figma Design:** [Link to Figma File](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
 
 
