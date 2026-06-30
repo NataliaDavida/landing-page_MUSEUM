@@ -54,6 +54,6 @@ To install and run this project locally, you will need:
     npm start
 
 ## Project Links
-Live Demo: [Link to your hosted live demo](https://nataliadavida.github.io/landing-page_MUSEUM/)
+Live Demo: (https://nataliadavida.github.io/landing-page_MUSEUM/)
 
 Figma Design: [Link to the Figma project file](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
