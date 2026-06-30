@@ -42,12 +42,16 @@ To install and run this project locally, you will need:
    ```bash
    git clone https://github.com/NataliaDavida/landin-page_Museum.git
 
-3. **Install project dependencies:
+2. **Navigate to the project directory:**
+     ```bash
+    cd landing-page_museum
+
+3. **Install project dependencies:**
    
     ```bash
     npm install
 
-5. **Start the local development server:**
+4. **Start the local development server:**
    
     ```bash
     npm start
