@@ -1,7 +1,7 @@
 # Museum Landing Page
 
 ## Introduction
-Welcome to the **Museum Landing Page** project, developed in strict accordance with a professional [Link to Figma File](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957). This is a modern, single-page website created to showcase a museum's identity, including current exhibitions, upcoming events, and essential visitor information. 
+Welcome to the **Museum Landing Page** project, developed in strict accordance with a professional Figma design. This is a modern, single-page website created to showcase a museum's identity, including current exhibitions, upcoming events, and essential visitor information. 
 
 The main goal of this project was to build fully accessible user interface using modern frontend technologies and structural methodologies.
 
@@ -43,4 +43,17 @@ To install and run this project locally, you will need:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/NataliaDavida/landin-page_museum.git](https://github.com/NataliaDavida/landin-page_museum.git)
+   git clone [https://github.com/NataliaDavida/landin-page_Museum.git](https://github.com/NataliaDavida/landin-page_Museum.git)
+
+2. **Install project dependencies:**
+    ```bash
+    npm install
+
+3. **Start the local development server:**
+    ```bash
+    npm start
+
+## Project Links
+Live Demo: [Link to your hosted live demo](https://nataliadavida.github.io/landing-page_MUSEUM/)
+
+Figma Design: [Link to the Figma project file](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957)
