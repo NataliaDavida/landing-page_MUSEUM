@@ -6,7 +6,7 @@ Welcome to the **Museum Landing Page** project, developed in strict accordance w
 The main goal of this project was to build fully accessible user interface using modern frontend technologies and structural methodologies.
 
 ## Key Features
-* **Responsive Layout:** Smooth adaptation across mobile (>320px), tablet ($\ge$ 768px), and ldesktop ($\ge$ 1280px) devices.
+* **Responsive Layout:** Smooth adaptation across mobile (>320px), tablet ($\ge$ 768px), and desktop ($\ge$ 1280px) devices.
 * **Header with hamburger menu:** Provides a navigable interface that adapts to different screen sizes.
 * **Exhibitions and Events Sections:** Features blocks for current exhibitions and events, with interactive elements and detailed information.
 * **News:** A block for announcements and blog posts, featuring responsive image variants based on category modifications.
