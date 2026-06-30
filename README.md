@@ -1,7 +1,7 @@
 # Museum Landing Page
 
 ## Introduction
-Welcome to the **Museum Landing Page** project, developed in strict accordance with a professional [Link to Figma file](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957). This is a modern, single-page website created to showcase a museum's identity, including current exhibitions, upcoming events, and essential visitor information. 
+Welcome to the **Museum Landing Page** project, developed in strict accordance with a professional [Link to Figma File](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957). This is a modern, single-page website created to showcase a museum's identity, including current exhibitions, upcoming events, and essential visitor information. 
 
 The main goal of this project was to build fully accessible user interface using modern frontend technologies and structural methodologies.
 
