@@ -1,3 +1,14 @@
-body {
-  margin: 0;
+.main {
+  &__content {
+    display: grid;
+    padding-block: 90px;
+
+    @include onTablet {
+      padding-block: 100px;
+    }
+
+    @include onDesktop {
+      padding-block: 110px;
+    }
+  }
 }
